@@ -1,0 +1,25 @@
+{
+  "name": "random-positive-messages",
+  "version": "1.0.0",
+  "description": "Random messages package",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random-messages",
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "author": "Ulises Astrada <ulises_astrada@outlook.com>",
+  "license": "MIT",
+  "bin": {
+    "random-positive-msg": "./bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UlisesAstrada/random-positive-messages.git"
+  },
+  "preferGlobal": true
+}
