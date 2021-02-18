@@ -11,7 +11,7 @@ npm i -g random-positive-messages
 # Usage
 
 ```bash
-random-positive-messages
+random-positive-msg
 ```
 
 # Contributing
